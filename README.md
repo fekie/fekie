@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!-- <img src="https://github.com/fekie/fekie/assets/68732833/f290d4b3-f01c-4a4f-8339-ffe54eeacfb7" width="100"/> -->
-  <img src="https://github.com/fekie/fekie/assets/68732833/060d5c73-ad09-4d34-906f-204cd875cd34" width="100"/>
+  <img src="https://github.com/fekie/fekie/assets/68732833/c11261ac-6933-480d-b6a5-1c230f7153d7" width="100"/>
   <br>
   <br>
 <img src="https://komarev.com/ghpvc/?username=fekie&label=Profile+Views&color=1F6FEB" alt=""/>
