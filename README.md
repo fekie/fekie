@@ -7,7 +7,7 @@
 </div>
 
 <br>
-Hiiiii I'm fekie and I'm currently in university for a Bachelor's in Electrical and Computer Engineering. Rust is my favorite programming language and I love web and hardware hacking. 
+beep boop
 <br>
 <br>
 
